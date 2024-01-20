@@ -1,0 +1,13 @@
+{
+    "name": "statement2mcfunction",
+    "private": true,
+    "version": "0.0.0",
+    "description": "",
+    "main": "index.js",
+    "author": "PFiS1737",
+    "license": "MIT",
+    "type": "module",
+    "dependencies": {
+        "md5": "^2.3.0"
+    }
+}
